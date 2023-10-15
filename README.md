@@ -48,7 +48,7 @@ The first field I changed the color of was the state level fields. Over this cou
 
 <img width="1402" alt="Screen Shot 2023-10-13 at 2 15 47 PM" src="https://github.com/willweb090/Final-Project--Will-Webster-/assets/143117422/7ef278a7-4a55-48af-982e-8a75d7382058">
 
-Final Thoughts
+# Final Thoughts
 
 What went well was the making the population density layer and joining it with the tornado points. At first, I was nervous it wasn’t going to look correct because the points went over the population density layer. This took away the main visual aspect of my project which was seeing where magnitude 5 tornadoes occur and how they relate to populated areas. Another thing that went well was the decision to eliminate all the tornadoes other than the mag. 5 that came with the data. There were far too many displayed before doing this.
 
