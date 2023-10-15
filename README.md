@@ -27,6 +27,8 @@ After having all the data in QGIS it was time to start geoprocessing it to be ab
 
 Excel-
 My main goal for making this map was to see where the largest tornadoes happen the most often at. To do this I had to go into the attribute table for the tornado layer, copy all the mag 5 level tornadoes and paste them into excel. Then I organized the excel document by state and counted how many tornadoes happened in each state from 1950-2022. After doing so I found that Oklahoma had the most of 8, Alabama the second most of 7, and a tie of third from Iowa, Kansas, and Texas. 
+![Screen Shot 2023-10-13 at 11 37 01 AM](https://github.com/willweb090/Final-Project--Will-Webster-/assets/143117422/59b108c5-b46e-456d-9432-b22c7c312cc0)
+
 
 
 Color choice- 
