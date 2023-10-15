@@ -5,7 +5,7 @@
 
 The goal of this map is to visualize what states have the most intense tornadoes from 1950-2022. I wanted to show how the EF-5 tornados are frequent in the same areas over this period of time. I was in the Joplin tornado during 2011 so this subject has always been interesting to me. At first, I included data that showed every tornado that has happened since 1950. This has well over 10,000 results and made it nearly impossible to work with. So, I decided to only include the largest which are the EF-5s. I also created a population density to show how these tornadoes relate to populated areas of each state. 
 
-#Data Sources
+# Data Sources
 
 There are three main data sources used in this project. Two of them have been used in this class for previous activities. 
 cb_2022_us_cbsa_500k.zip (Shapefile)
@@ -21,7 +21,7 @@ Tools Used
 QGIS was used for representing the data, along with the geoprocessing tools and creating the statics map layouts.
 Google Excel was used to visualize the number of EF-5 tornadoes in each state from 1950-2022.
 
-Methodology
+# Methodology
 
 Adding data
 
