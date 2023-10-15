@@ -1,4 +1,4 @@
-# Final-Project--Will-Webster-
+# Tornadoes Across The United States
 
 
 Overview
@@ -14,6 +14,8 @@ Source: https://www.census.gov/geographies/mapping-files/time-series/geo/cartogr
 The other dataset used is the initial points of the tornadoes from 1950-2022. 
 Source: https://www.spc.noaa.gov/gis/svrgis/zipped/1950-2022-torn-initpoint.zip 
 ![color levels image](Images/Color-Levels.png)
+
+
 Tools Used:
 
 QGIS was used for representing the data, along with the geoprocessing tools and creating the statics map layouts.
